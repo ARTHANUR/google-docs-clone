@@ -1,8 +1,93 @@
+.header {
+    display: flex;
+}
 
-.header{
-    background-color: #f9fbfd;
+.logo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    margin-top: 10px;
 }
-.header>img{
-    width: 32px;
-    height: 32px;
+
+.profile-pic {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
 }
+
+.header-icon {
+    width: 25px;
+    height: 25px;
+}
+
+.header-info {
+    width: 420px;
+    height: 65px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5rem;
+}
+
+.header-info>div {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.header-info>div>span {
+    font-size: 14px;
+    letter-spacing: 0.2px;
+}
+
+.title {
+    font-size: 18px;
+    line-height: 22px;
+    color: grey;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+
+.header-info>span:first-of-type {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.star {
+    width: 20px;
+    height: 20px;
+    margin-left: 0.5rem;
+    margin-top: 5px;
+
+}
+.header-right{
+    display: flex;
+    width: 300px;
+    height: 35px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 10px;
+}
+.header-right>div:first-of-type{
+    height: 30px;
+}
+.header-right>div:last-of-type{
+    width: 100px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #c2e7ff;
+    color: #001d35;
+    font-weight: 600;
+    border-radius: 100px;
+    font-size: 14px;
+    line-height: 20;
+    letter-spacing: 0.25px;
+}
+.lock{
+    width: 20px;
+    margin-right: 5px;
+
+}
+
