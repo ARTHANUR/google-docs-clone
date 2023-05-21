@@ -53,7 +53,7 @@ const Tools = () => {
                 </div>
                 <div className="line"></div>
                 {/* ///////////////////////////////////////////////////////////// */}
-                {/* <div className="tool6">
+                <div className="tool6">
                     <div className="extra">
                         <img src=" https://res.cloudinary.com/dboa7dqkl/image/upload/v1684677829/Google%20docs/format_align_left_FILL0_wght400_GRAD0_opsz48_bnknjw.png" alt="" className="icon" />
                         <img src=" https://res.cloudinary.com/dboa7dqkl/image/upload/v1684478675/Google%20docs/arrow_drop_down_FILL0_wght400_GRAD0_opsz48_rplvdb.png" alt="" className="icon" />
@@ -74,7 +74,7 @@ const Tools = () => {
                     <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1684677830/Google%20docs/format_indent_increase_FILL0_wght400_GRAD0_opsz48_uhokuk.png " alt="" className="icon"/>
                     <img src=" https://res.cloudinary.com/dboa7dqkl/image/upload/v1684677830/Google%20docs/format_indent_increase_FILL0_wght400_GRAD0_opsz48_uhokuk.png" alt="" className="icon"/>
                     <img src=" https://res.cloudinary.com/dboa7dqkl/image/upload/v1684677829/Google%20docs/format_clear_FILL0_wght400_GRAD0_opsz48_gfyb4i.png" alt="" className="icon"/>
-                </div> */}
+                </div>
             </div>
         </>
     );
