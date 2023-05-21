@@ -30,7 +30,7 @@ const Header = () => {
                     </div>
                     <div>
                         <img className="lock" src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1684478677/Google%20docs/lock_FILL0_wght400_GRAD0_opsz48_smdahw.png" alt="" />
-                        {/* <span>Share</span> */}
+                        <span>Share</span>
                     </div>
                     <img className="profile-pic" src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1683897267/cosmetics/pexels-jonaorle-3828268_ctpqw3.jpg" alt="" />
                 </div>
