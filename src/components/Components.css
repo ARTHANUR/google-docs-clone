@@ -127,7 +127,6 @@
 .icon {
     width: 20px;
     height: 20px;
-
 }
 
 .tool1>.extra {
@@ -209,8 +208,33 @@
     padding: 0 5px;
 }
 
-.tool4>.icon{
+.tool4>.icon {
     width: 18px;
     height: 18px;
+
+}
+
+/* hover animation /////////////////////////////// */
+
+.icon:hover{
+    cursor: pointer;
+    background-color: #cccccc;
+    opacity: 70%;
+    border-radius: 4px;
+    padding: 3px;
+}
+
+.extra:hover{
+    cursor: pointer;
+    background-color: #cccccc;
+    border-radius: 4px;
+    padding: 3px;
+
+}
+.extra2:hover{
+    cursor: pointer;
+    background-color: #cccccc;
+    border-radius: 4px;
+    padding: 3px;
 
 }
