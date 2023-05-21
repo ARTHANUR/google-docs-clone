@@ -36,6 +36,15 @@ const Tools = () => {
                     <span className="extra">+</span>
                 </div>
                 <div className="line"></div>
+                {/* ///////////////////////////////////////////////////// */}
+                <div className="tool4">
+                    <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1684478667/Google%20docs/format_bold_FILL0_wght400_GRAD0_opsz40_eyzyhz.png" alt="" className="icon" />
+                    <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1684478668/Google%20docs/format_italic_FILL0_wght400_GRAD0_opsz40_bnhlfa.png" alt="" className="icon" />
+                    <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1684478668/Google%20docs/format_underlined_FILL0_wght400_GRAD0_opsz40_wxvcnr.png" alt="" className="icon" />
+                    <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1684478668/Google%20docs/format_color_text_FILL0_wght400_GRAD200_opsz40_gmjphi.png" alt="" className="icon" />
+                    <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1684478669/Google%20docs/format_ink_highlighter_FILL0_wght400_GRAD200_opsz40_k0kbvx.png" alt="" className="icon" />
+                </div>
+                <div className="line"></div>
             </div>
         </>
     );

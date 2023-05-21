@@ -148,7 +148,7 @@
 
 /* Tool2 //////////////////////// */
 
-.tool2{
+.tool2 {
     margin-left: 5px;
     display: flex;
     width: 230px;
@@ -157,14 +157,16 @@
     align-items: center;
     color: #1f1f1f;
 }
-.tool2>.extra:first-of-type{
+
+.tool2>.extra:first-of-type {
     width: 110px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-size: 14px;
 }
-.tool2>.extra2{
+
+.tool2>.extra2 {
     width: 80px;
     display: flex;
     justify-content: space-between;
@@ -174,19 +176,21 @@
 
 /* tool3 ///////////////////////////////////////////////// */
 
-.tool3{
+.tool3 {
     width: 90px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.tool3>.extra{
+
+.tool3>.extra {
     width: 15px;
     font-size: 26px;
     line-height: 28px;
     border-radius: 4;
 }
-.tool3>.number{
+
+.tool3>.number {
     font-size: 14;
     border: 1px solid #1f1f1f;
     border-radius: 4px;
@@ -195,4 +199,18 @@
     text-align: center;
 }
 
+/* tool4 ////////////////////////////////////////////////// */
 
+.tool4 {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5px;
+}
+
+.tool4>.icon{
+    width: 18px;
+    height: 18px;
+
+}
