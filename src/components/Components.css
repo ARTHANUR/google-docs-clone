@@ -172,4 +172,27 @@
     font-size: 14px;
 }
 
+/* tool3 ///////////////////////////////////////////////// */
+
+.tool3{
+    width: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.tool3>.extra{
+    width: 15px;
+    font-size: 26px;
+    line-height: 28px;
+    border-radius: 4;
+}
+.tool3>.number{
+    font-size: 14;
+    border: 1px solid #1f1f1f;
+    border-radius: 4px;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+}
+
 
