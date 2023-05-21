@@ -33,7 +33,7 @@ The application should now be running on `http://localhost:3000`.
 
 # Desktop view :
 
-[image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1684681597/Screenshot_2023-05-21_203236_izdeio.png)
+![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1684681597/Screenshot_2023-05-21_203236_izdeio.png)
 
 ## Configuration
 
