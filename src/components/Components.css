@@ -59,7 +59,8 @@
     margin-top: 5px;
 
 }
-.header-right{
+
+.header-right {
     display: flex;
     width: 300px;
     height: 35px;
@@ -68,10 +69,12 @@
     margin-left: 40%;
     margin-top: 10px;
 }
-.header-right>div:first-of-type{
+
+.header-right>div:first-of-type {
     height: 30px;
 }
-.header-right>div:last-of-type{
+
+.header-right>div:last-of-type {
     width: 100px;
     height: 40px;
     display: flex;
@@ -85,7 +88,8 @@
     line-height: 20;
     letter-spacing: 0.25px;
 }
-.lock{
+
+.lock {
     width: 20px;
     margin-right: 5px;
 
@@ -94,9 +98,11 @@
 
 /* //////////////////////////////////////////////////////// */
 
-/* Tool section */
+/* Tools section  */
 
-.tool-section{
+/* Tool1 //////////////////////////////// */
+
+.tool-section {
     background-color: #edf2fa;
     border-radius: 100px;
     padding: 0 10px;
@@ -108,7 +114,7 @@
 
 }
 
-.tool1{
+.tool1 {
     display: flex;
     width: 250px;
     height: 100%;
@@ -117,12 +123,14 @@
     color: #1f1f1f;
 
 }
-.icon{
+
+.icon {
     width: 20px;
     height: 20px;
-    
+
 }
-.tool1>.extra{
+
+.tool1>.extra {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -131,8 +139,37 @@
     font-weight: 500;
 }
 
-.line{
+.line {
     height: 20px;
     border: 1px solid #1f1f1f;
-    margin:0 5px ;
+    margin: 0 5px 0 5px;
 }
+
+
+/* Tool2 //////////////////////// */
+
+.tool2{
+    margin-left: 5px;
+    display: flex;
+    width: 230px;
+    height: 100%;
+    justify-content: space-between;
+    align-items: center;
+    color: #1f1f1f;
+}
+.tool2>.extra:first-of-type{
+    width: 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+}
+.tool2>.extra2{
+    width: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+}
+
+

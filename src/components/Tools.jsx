@@ -16,6 +16,18 @@ const Tools = () => {
                     </div>
                 </div>
                 <div className="line" />  
+                <div className="tool2">
+                    <div className="extra">
+                        <span>Normal text</span>
+                        <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1684478675/Google%20docs/arrow_drop_down_FILL0_wght400_GRAD0_opsz48_rplvdb.png" alt="" className="icon" />
+                    </div>
+                    <div className="line" />
+                    <div className="extra2">
+                        <span>Arial</span>
+                        <img src="https://res.cloudinary.com/dboa7dqkl/image/upload/v1684478675/Google%20docs/arrow_drop_down_FILL0_wght400_GRAD0_opsz48_rplvdb.png" alt="" className="icon" />
+                    </div>
+                </div>
+                <div className="line"></div>
             </div>
         </>
     );
